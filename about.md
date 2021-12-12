@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-To unite all in the Coffs Harbour region seeking liberty, truth, well-being and health
+To unite all in the Coffs Harbour region seeking liberty, truth, well-being and health.
 
-({{ site.baseurl }}/images/adminteam.jpeg)
+![_config.yml]({{ site.baseurl }}/images/adminteam.jpeg)
 
 ### More Information
 
