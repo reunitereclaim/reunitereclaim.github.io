@@ -6,7 +6,11 @@ permalink: /about/
 
 To unite all in the Coffs Harbour region seeking liberty, truth, well-being and health.
 
+### Admin
+
 ![_config.yml]({{ site.baseurl }}/images/adminteam.jpeg)
+
+Barking Bandicoot, Avalon (left), Mach Delaria (middle), Sully (Right), George Christinson, Tom Morgan
 
 ### More Information
 
