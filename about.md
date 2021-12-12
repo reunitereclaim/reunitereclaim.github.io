@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-To unite all Australians seeking liberty, truth, well-being and health
+To unite all in the Coffs Harbour region seeking liberty, truth, well-being and health
 
 ({{ site.baseurl }}/images/adminteam.jpeg)
 
@@ -29,6 +29,6 @@ destruction.
 
 [Telegram](https://t.me/TAPCoffsHarbour) Announcements and chatter.
 
-[Matrix/Element](https://matrix.to/#/#tap-coffsharbour:matrix.org) Our community rooms fourm. Organise within different areas.
+[Matrix/Element](https://matrix.to/#/#tap-coffsharbour:matrix.org) Our community rooms forum. Organise locally within different areas.
 
 [Email](mailto:reunite.q2kh0@slmail.me)
