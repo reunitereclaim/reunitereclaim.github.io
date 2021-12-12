@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Re-unification Day - Free on the 15th!
+title: Reunification Day - Free on the 15th!
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/free15v2.png)
