@@ -11,7 +11,7 @@ To unite all Australians seeking liberty, truth, well-being and health
 
 The Australia Project is a non-political national movement dedicated to achieving the following aims.
 
-Organisational Aims
+#### Organisational Aims
 
 ● Consistent and continuing education of the Australian people about the current political and governmental climate existing in Australia. 
 
@@ -25,8 +25,8 @@ destruction.
 
 ### Contact the project
 
-[Telegram}(https://t.me/TAPCoffsHarbour)
+[Telegram](https://t.me/TAPCoffsHarbour) Announcements and chatter.
 
-[Matrix/Element](https://matrix.to/#/#tap-coffsharbour:matrix.org)
+[Matrix/Element](https://matrix.to/#/#tap-coffsharbour:matrix.org) Our community rooms fourm. Organise within different areas.
 
 [Email](mailto:reunite.q2kh0@slmail.me)
