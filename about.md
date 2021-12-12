@@ -6,7 +6,7 @@ permalink: /about/
 
 To unite all Australians seeking liberty, truth, well-being and health
 
-![_config.yml]({{ site.baseurl }}/images/adminteam.png)
+![_config.yml]({{ site.baseurl }}/images/adminteam.jpeg)
 
 ### More Information
 
