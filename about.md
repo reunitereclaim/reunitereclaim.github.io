@@ -36,3 +36,5 @@ destruction.
 [Matrix/Element](https://matrix.to/#/#tap-coffsharbour:matrix.org) Our community rooms forum. Organise locally within different areas.
 
 [Email](mailto:reunite.q2kh0@slmail.me)
+
+Website administrator: Barking Bandicoot
