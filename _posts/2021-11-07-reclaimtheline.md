@@ -3,10 +3,10 @@ layout: post
 title: Reclaim The Line - 7/11/21 by Barking Bandicoot
 ---
 
+![_config.yml]({{ site.baseurl }}/images/reclaim.png)
+
 
 Reclaim The Line - 7th of November 2021
-
-![_config.yml]({{ site.baseurl }}/images/reclaim.png)
 
 Speeches and footage of the event by Barking Bandicoot.
 
