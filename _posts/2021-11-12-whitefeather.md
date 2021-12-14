@@ -3,6 +3,7 @@ layout: post
 title: The White Feather
 ---
 
+![_config.yml]({{ site.baseurl }}/images/feather.jpg)
 
 The White Feather
 
