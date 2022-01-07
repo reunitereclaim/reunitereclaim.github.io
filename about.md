@@ -38,22 +38,17 @@ Our community rooms forum. Organise locally within different areas.This is where
 
 ##### Individual rooms include:
 
-[Meetings & Announcements](https://matrix.to/#/!PaqgEUJNaHiERKsbMF:matrix.org?via=matrix.org)
-
-[General discussion](https://matrix.to/#/!IXwpDpAyxxsyDJkPgV:matrix.org?via=matrix.org)
-
-[Technology Liberation](https://matrix.to/#/#technologyliberation:matrix.org) Free your devices from surveillance & own your data.
-
-[Coffee & Chat](https://matrix.to/#/#localcoffeechat:matrix.org)
-
-[Education](https://matrix.to/#/!PdQnZTufaRdQVrFaGf:matrix.org?via=matrix.org)
-[Home Schooling](https://matrix.to/#/!REfuwWtWQpKfUSMBoq:matrix.org?via=matrix.org)
-[Health & Healing Solutions](https://matrix.to/#/!vDEnfWQqadROADcCNt:matrix.org?via=matrix.org) Safe & effective protocols and resources in relation to Injections.
-[Home Cleaning Party](https://matrix.to/#/#powermama:matrix.org) Community help for house cleaning.
-[Jobs Board](https://matrix.to/#/#employment:matrix.org) Jobs on offer.
-[Market/Agora](https://matrix.to/#/!KlXhTjEzrjMfZEFysq:matrix.org?via=matrix.org) Co-op, trade, swap & car boot market/Agora for trade amongst TAP members.
-[Open for All](https://matrix.to/#/#openforallcoffs:matrix.org) A list of businesses that do not discriminate.
-[Anarcho-taoism](https://matrix.to/#/#anarchotaoism:matrix.org) All things anarchist with a flavouring of ying/yang.
+- [Meetings & Announcements](https://matrix.to/#/!PaqgEUJNaHiERKsbMF:matrix.org?via=matrix.org)
+- [General discussion](https://matrix.to/#/!IXwpDpAyxxsyDJkPgV:matrix.org?via=matrix.org)
+- [Technology Liberation](https://matrix.to/#/#technologyliberation:matrix.org) Free your devices from surveillance & own your data.
+- [Coffee & Chat](https://matrix.to/#/#localcoffeechat:matrix.org)[Education](https://matrix.to/#/!PdQnZTufaRdQVrFaGf:matrix.org?via=matrix.org)
+- [Home Schooling](https://matrix.to/#/!REfuwWtWQpKfUSMBoq:matrix.org?via=matrix.org)
+- [Health & Healing Solutions](https://matrix.to/#/!vDEnfWQqadROADcCNt:matrix.org?via=matrix.org) Safe & effective protocols and resources in relation to Injections.
+- [Home Cleaning Party](https://matrix.to/#/#powermama:matrix.org) Community help for house cleaning.
+- [Jobs Board](https://matrix.to/#/#employment:matrix.org) Jobs on offer.
+- [Market/Agora](https://matrix.to/#/!KlXhTjEzrjMfZEFysq:matrix.org?via=matrix.org) Co-op, trade, swap & car boot market/Agora for trade amongst TAP members.
+- [Open for All](https://matrix.to/#/#openforallcoffs:matrix.org) A list of businesses that do not discriminate.
+- [Anarcho-taoism](https://matrix.to/#/#anarchotaoism:matrix.org) All things anarchist with a flavouring of ying/yang.
 
 and more...!
 
