@@ -39,9 +39,13 @@ Our community rooms forum. Organise locally within different areas.This is where
 ##### Individual rooms include:
 
 [Meetings & Announcements](https://matrix.to/#/!PaqgEUJNaHiERKsbMF:matrix.org?via=matrix.org)
+
 [General discussion](https://matrix.to/#/!IXwpDpAyxxsyDJkPgV:matrix.org?via=matrix.org)
+
 [Technology Liberation](https://matrix.to/#/#technologyliberation:matrix.org) Free your devices from surveillance & own your data.
+
 [Coffee & Chat](https://matrix.to/#/#localcoffeechat:matrix.org)
+
 [Education](https://matrix.to/#/!PdQnZTufaRdQVrFaGf:matrix.org?via=matrix.org)
 [Home Schooling](https://matrix.to/#/!REfuwWtWQpKfUSMBoq:matrix.org?via=matrix.org)
 [Health & Healing Solutions](https://matrix.to/#/!vDEnfWQqadROADcCNt:matrix.org?via=matrix.org) Safe & effective protocols and resources in relation to Injections.
