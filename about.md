@@ -36,6 +36,8 @@ destruction.
 #### [Matrix/Element](https://matrix.to/#/#tap-coffsharbour:matrix.org) 
 Our community rooms forum. Organise locally within different areas.This is where **you** be the change you want to see in the world! Go to 'Explore Rooms' to discover all the various channels of discussion - or join the rooms individually.
 
+[How to join Element!](https://t.me/TAPCoffsHarbour/268)
+
 ##### Individual rooms include:
 
 - [Meetings & Announcements](https://matrix.to/#/!PaqgEUJNaHiERKsbMF:matrix.org?via=matrix.org)
