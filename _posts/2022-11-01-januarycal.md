@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January Calendar of Events
+title: January calendar of events
 ---
 
 
